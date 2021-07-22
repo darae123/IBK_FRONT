@@ -69,7 +69,7 @@
     "suneditor-react": "^2.12.2",
     "tailwindcss": "^1.2.0",
     "typescript": "^3.7.5",
-    "xlsx": "^0.15.6",
+    "xlsx": "^0.17.0",
     "xlsx-style": "^0.8.13"
   },
   "scripts": {
